@@ -1,2 +1,4 @@
 # orbitconvert
- GUI program for orbit frame conversion
+This program is intended to simplify converting orbital parameters from a plane-of-sky reference frame to an ecliptic one, e.g. for use in [Celestia](https://github.com/CelestiaProject/Celestia). Based on code released by @ajtribick in April 2021.
+
+There are two ways to run the program. On any operating system, you can install [Python](https://www.python.org/) 3 and the [scipy](https://scipy.org/) and [PySimpleGUI](https://pysimplegui.readthedocs.io/en/latest/) modules, and run the program from IDLE or the command line. For Windows users, there is also a Windows executable available under "Releases".
