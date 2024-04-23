@@ -1,7 +1,7 @@
 from typing import Optional, Tuple
 import warnings
 from scipy.spatial.transform import Rotation
-import PySimpleGUI as sg
+import FreeSimpleGUI as sg
 
 OBLIQUITY = 23.4392911
 
